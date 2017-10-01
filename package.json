@@ -1,0 +1,15 @@
+{
+  "name": "intercom-user-hash",
+  "version": "1.0.0",
+  "description": "Code for generating user hash value for Intercom's Identity Verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "intercom",
+    "hash"
+  ],
+  "author": "David Cusack",
+  "license": "ISC"
+}
